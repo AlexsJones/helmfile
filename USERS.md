@@ -18,4 +18,5 @@ information to this file.
 | [uniqkey](https://uniqkey.eu/) | production | [Wiki Page](https://ocd-scm.github.io/ocd-meta/) | Copenhagen, Denmark | April 2019 |
 | [bitsofinfo](https://github.com/bitsofinfo/helmfile-deploy) | production | Used with [helmfile-deploy](https://github.com/bitsofinfo/helmfile-deploy) to manage releases for dozens of apps | USA | July 2019 |
 | [kloeckner-i](https://www.kloeckner-i.com/) | production | We are deploying our standard tools via helmfile to all our clusters.  | Berlin, Germany | September 2019 |
+| [American Express](https://www.americanexpress.com/) | proof-of-concept | We are rationalising our Anthos workloads with Helmfile  | London, UK | November 2019 |
 <!-- TABLE_END -->
